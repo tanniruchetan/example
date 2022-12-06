@@ -1,0 +1,203 @@
+linux commands
+
+    1  /
+    2  ls
+    3  ls /
+    4  pwd
+    5  ls
+    6  ls /
+    7  cd ..
+    8  pwd
+    9  ls /
+   10  ping google.com
+   11  date
+   12  cal
+   13  uptime
+   14  whoami
+   15  finger
+   16  users
+   17  id
+   18  exit
+   19  whoami
+   20  who
+   21  w
+   22  man who
+   23  ls
+   24  pwd
+   25  vi samplefile.txt
+   26  cat samplefile.txt
+   27  less samplefile.txt
+   28  more samplefile.txt
+   29  head samplefile.txt
+   30  tail samplefile.txt
+   31  head -20 samplefile.txt
+   32  tail -20 samplefile.txt
+   33  page
+   34  pwd
+   35  ls
+   36  touch first
+   37  ls
+   38  ls -l
+   39  ls -l -t
+   40  touch great
+   41  ls -l
+   42  ls -l -t
+   43  ls -l -t -r
+   44  ls -l
+   45  ls -l -r
+   46  ls -lr
+   47  cat > file2
+   48  ls -l
+   49  cat file2
+   50  nano file3
+   51  history
+ 52  ls
+   53  nano file3
+   54  cat file3
+   55  ls -l
+   56  cat > first
+   57  cat first
+   58  cat > first
+   59  cat first
+   60  vi file3
+   61  cat file3
+   62  cat >> file3
+   63  cat file3
+   64  cat >> file3
+   65  cat file3
+   66  history
+ 67  hey
+   68  clear
+   69  hsitory
+   70  history
+   71  clear
+   72  pwd
+   73  ls
+   74  mkdir samplefolder
+   75  ls
+   76  ls -l
+   77  pwd
+   78  cd samplefolder/
+   79  pwd
+   80  mkdir dir1 dir2 dir3
+   81  ls
+   82  pwd
+   83  history
+
+   84  ls
+   85  tree
+   86  yum istall tree -y
+   87  tree
+   88  yum install tree -y
+   89  tree
+   90  rm file2
+   91  ls
+   92  tree
+   93  rm file3 first -y
+   94  rm file3 first
+   95  touch file1 file2
+   96  ls
+   97  rm file1 file2 -y
+   98  rm file1 file2 -y -y
+   99  ls
+  100  rm -f file1 file2
+  101  ls
+  102  touch file1 file2
+  103  rm  file1 file2 -f
+  104  ls
+  105  tree
+  106  rmdir samplefolder/
+  107  pwd
+  108  cd samplefolder/
+  109  ls -l
+  110  ls -al
+  111  rmdir dir1
+  112  ll
+  113  ls -l
+  114  cd ..
+  115  pwd
+  116  ls
+  117  tree
+  118  rmdir samplefolder/
+  119  rm -f -r samplefolder/
+  120  ls
+  121  tree
+  122  mkdir firstfile
+  123  cd firstfile/
+  124  mkdir g1 g2 g3
+  125  ls
+  126  cd ..
+  127  tree
+  128  rm -fr firstfile/
+  129  tree
+  130  mkdir secondfile
+  131  cd secondfile/
+  132  mkdir d1 d2 d3
+  133  ls
+  134  cd ..
+  135  rm -rf secondfile/
+  136  tree
+  137  ls
+  138  tree
+  139  touch file1 file2
+  140  tree
+  141  cat > file1
+  142  cat file1
+  143  cat file2
+  144  cp file1 file2
+  145  cat file2
+  146  tree
+  147  mkdir dir
+  148  tree
+  149  cp file1 dir
+  150  tree
+  151  cp dir dire
+  152  cp dir dir1
+  153  tree
+  154  mkdir dir1
+  155  tree
+  156  cp file2 dir1
+  157  tree
+  158  cp dir1 dir2
+  159  cp -R  dir1 dir2
+  160  tree
+  161  history
+ 162  tree
+  163  mv file2 dir
+  164  tree
+  165  cd dir
+  166  ls
+  167  mv file1 file3
+  168  ls
+  169  historu
+  170  history
+172  tree
+  173  pwd
+  174  cd ..
+  175  ls
+  176  cd ..
+  177  ls
+  178  pwd
+  179  cd root
+  180  pwd
+  181  cd tmp
+  182  cd /tmp
+  183  pwd
+  184  cd root
+  185  cd /root
+  186  ls
+  187  pwd
+  188  cd ..tmp
+  189  cd ../tmp
+  190  pwdd
+  191  pwd
+  192  cd /root
+  193  pwd
+  194  cd ..
+  195  cd /tmp
+  196  pwd
+  197  cd /root
+  198  pwd
+  199  cd /tmp
+  200  history
+
